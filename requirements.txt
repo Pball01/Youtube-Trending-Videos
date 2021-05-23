@@ -1,0 +1,14 @@
+# this repository requires following 
+# packages to be installed.
+jupyter
+jupyterlab
+
+numpy
+pandas
+requests
+pyspark
+
+scikit-learn
+Scipy
+Matplotlib
+seaborn
